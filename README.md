@@ -1,7 +1,7 @@
 # BeReal-Clone-IOS-Mobile-Application-
-# Project 5 - *Name of App Here*
+# Project 5 - *BeReal Clone*
 
-Submitted by: **Your Name Here**
+Submitted by: **BeReal Clone**
 
 **BeReal-Clone-IOS-Mobile-Application** is an app that ... [TODO] 
 Clone of the BeReal / Instagram style IOS application 
@@ -42,6 +42,14 @@ GIF created with ...
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
+
+
+USE THIS LINK, GIF TOO LARGE FOR GITHUIB: 
+https://imgur.com/gallery/Q5lOCjI
+
+https://i.imgur.com/jtOGhxa.mp4
+
+
 
 ## Notes
 
